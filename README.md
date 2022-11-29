@@ -9,7 +9,9 @@ From / By https://github.com/rodneylab/sveltekit-css-hover-image-slider
 ## Environment variables:
 
 ```java
+
 none
+
 ```
 
 ## GitHub
