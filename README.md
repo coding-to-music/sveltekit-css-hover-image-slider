@@ -1,3 +1,29 @@
+# sveltekit-css-hover-image-slider
+
+# 🚀 SvelteKit CSS only :hover image slider 🚀
+
+https://github.com/coding-to-music/sveltekit-css-hover-image-slider
+
+From / By https://github.com/rodneylab/sveltekit-css-hover-image-slider
+
+## Environment variables:
+
+```java
+none
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/sveltekit-css-hover-image-slider.git
+git push -u origin main
+```
+
 <img src="./images/rodneylab-github-sveltekit-css-hover-image-slider.png" alt="Rodney Lab sveltekit-css-hover-image-slider Github banner">
 
 <p align="center">
