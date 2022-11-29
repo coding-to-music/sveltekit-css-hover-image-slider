@@ -6,6 +6,8 @@ https://github.com/coding-to-music/sveltekit-css-hover-image-slider
 
 From / By https://github.com/rodneylab/sveltekit-css-hover-image-slider
 
+https://dev.to/askrodney/svelte-css-image-slider-with-bouncy-overscroll-52km
+
 ## Environment variables:
 
 ```java
