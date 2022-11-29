@@ -1,5 +1,15 @@
 # sveltekit-css-hover-image-slider
 
+### Build Error on Vercel:
+
+```
+Error: No Output Directory named "public" found after the Build completed. You can configure the Output Directory in your Project Settings.
+```
+
+Learn More: https://vercel.link/missing-public-directory
+
+https://vercel.com/docs/errors#error-list/missing-public-directory
+
 # 🚀 SvelteKit CSS only :hover image slider 🚀
 
 https://github.com/coding-to-music/sveltekit-css-hover-image-slider

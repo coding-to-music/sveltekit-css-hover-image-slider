@@ -10,6 +10,10 @@ const config = {
 
 export default config;
 
+// ,
+// build: {
+// 	outDir: '../public'
+// }
 // import { sveltekit } from '@sveltejs/kit/vite';
 // import type { UserConfig } from 'vite';
 
