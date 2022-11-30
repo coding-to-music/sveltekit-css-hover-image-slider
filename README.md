@@ -1,5 +1,9 @@
 # sveltekit-css-hover-image-slider
 
+## Status
+
+Works in dev but not Vercel - no "public" directory is created or found.
+
 ### Build Error on Vercel:
 
 ```
